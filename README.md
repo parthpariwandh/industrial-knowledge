@@ -1,4 +1,4 @@
-# Industrial Knowledge Copilot
+# Industrial Knowledge 
 
 ### ET AI Hackathon 2.0 – Phase 2 Build Sprint Submission
 
@@ -500,6 +500,6 @@ See the LICENSE file for details.
 
 ---
 
-**Industrial Knowledge Copilot**
+**Industrial Knowledge**
 **ET AI Hackathon 2026 Submission**
 **Team ParthPariwandh | Jadavpur University**
